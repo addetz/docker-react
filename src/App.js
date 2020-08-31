@@ -8,9 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Adelina wuz here m8. 
-          Ehhh, dem's the automatic refreshes.
-          And again! 
+          Adelina was on the feature branch. 
         </p>
         <a
           className="App-link"
